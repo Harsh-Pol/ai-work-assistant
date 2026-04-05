@@ -22,6 +22,12 @@ An AI-powered tool to automate everyday tasks like summarization, key point extr
 
 ## ▶️ Run Locally
 
+## 🔐 Setup
+
+Create a `.env` file and add:
+
+GOOGLE_API_KEY=your_api_key_here
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
