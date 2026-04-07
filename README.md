@@ -1,3 +1,5 @@
+Live Demo- https://ai-work-assistant.streamlit.app/
+
 # 🚀 AI Work Assistant
 
 An AI-powered tool to automate everyday tasks like summarization, key point extraction, and email generation using Generative AI.
